@@ -1,0 +1,16 @@
+.header-link {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* margin: 4px 0; */
+}
+
+.header-link:hover {
+    background-color: red;
+    padding: 3px 12px 5px 12px;
+    color: white;
+    border-radius: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition: all .9s ease;
+    -webkit-transition: all .7s ease;
+
+}
